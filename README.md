@@ -283,4 +283,6 @@ diet-recommendation-system/
 
 ## 📝 Lisensi
 
+by Armaya Wira Sandi (231240001437)
+
 Project ini dibuat untuk tujuan edukasi dan pembelajaran sistem cerdas. Feel free to use, modify, and distribute! 🚀
